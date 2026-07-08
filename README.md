@@ -104,5 +104,5 @@ Work was organized into 4 sprints:
 
 ## Links
 
-- **Live Dashboard / Demo:** https://drive.google.com/drive/folders/1WomE8CdxmuzajJlKV8Frgk97AvVy7eWc?usp=sharing
+- **Live Dashboard / Demo:** https://drive.google.com/drive/folders/1WomE8CdxmuzajJlKV8Frgk97AvVy7eWc?usp=sharing  /  https://public.tableau.com/views/visualizations_17835040104890/StoryonelectricityconsumptioninIndia?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - **GitHub Repository:** https://github.com/Arjunatwar/Plugging-into-the-Future.git
